@@ -55,3 +55,11 @@ git pull (get remote branches info)
 
 After this new branch will be created in the github website too.
 </pre>
+
+## Hard Reseting to head
+
+<pre>
+git reset --hard
+
+This will reset our project to the previous head at the remote repo.
+</pre>
