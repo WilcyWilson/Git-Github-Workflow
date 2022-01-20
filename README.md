@@ -63,3 +63,9 @@ git reset --hard
 
 This will reset our project to the previous head at the remote repo.
 </pre>
+
+## Delete a Git Branch
+
+<pre>
+git branch -d branchname
+</pre>
