@@ -66,6 +66,12 @@ This will reset our project to the previous head at the remote repo.
 
 ## Delete a Git Branch
 
+#### Locally
 <pre>
 git branch -d branchname
+</pre>
+
+#### Remote Branch
+<pre>
+git push origin --delete branchname
 </pre>
