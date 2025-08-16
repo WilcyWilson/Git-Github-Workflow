@@ -7,7 +7,7 @@
 
 <pre>
 Config Username: git config --global user.name "wilcywilson"
-Config email: git config --global user.email wilsonshresthaapps@gmail.com
+Config email: git config --global user.email wilsonshresthaxxxx@gmail.com
 </pre>
 
 ## Commands to get started
