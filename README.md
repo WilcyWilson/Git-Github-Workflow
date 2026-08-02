@@ -75,3 +75,15 @@ git branch -d branchname
 <pre>
 git push origin --delete branchname
 </pre>
+
+#### Discard Untracked Uncommited files using git
+<pre>
+git restore <filename> (discard local, uncommitted changes and return a single file to its last committed state)
+git restore --staged <filename> (unstage a file and move it back to "modified" status)
+git restore --source <commit_hash> <filename> (To restore a file to its state from a specific historical commit)
+</pre>
+
+#### Concise command that shows a list of previous commits and their hashes to identify a rollback target
+<pre>
+git log --oneline
+</pre>
