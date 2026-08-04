@@ -1,8 +1,5 @@
 # Github Workflow
 
-## Explorer Workflow Pic
-<img src="workflow.png" width="400" height="270"> 
-
 ## Github Sign In Commands
 
 <pre>
@@ -88,6 +85,8 @@ git restore --source <commit_hash> <filename> (To restore a file to its state fr
 git log --oneline
 </pre>
 
+<img width="1004" height="258" alt="image" src="https://github.com/user-attachments/assets/20aceca7-16e9-482c-8fb0-c09e622b8140" />
+
 ## Discards all local changes to all tracked files in the current directory at once
 <pre>
 git checkout .
@@ -102,6 +101,5 @@ git clean -f (git clean require the -f (force) flag by default to prevent the ac
 </pre>
 
 <img width="1500" height="364" alt="image" src="https://github.com/user-attachments/assets/b5a812c7-49dc-4f7a-85f9-6fe3f741e7f0" />
-
 
 
