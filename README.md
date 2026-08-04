@@ -95,3 +95,13 @@ git checkout .
 
 <img width="1530" height="612" alt="image" src="https://github.com/user-attachments/assets/ae0e673b-b806-4639-af23-4bab9601f4c0" />
 
+## Bulk removal of untracked files from the working directory
+<pre>
+git clean
+git clean -f (git clean require the -f (force) flag by default to prevent the accidental permanent deletion of files that are not stored in Git's history)
+</pre>
+
+<img width="1500" height="364" alt="image" src="https://github.com/user-attachments/assets/b5a812c7-49dc-4f7a-85f9-6fe3f741e7f0" />
+
+
+
