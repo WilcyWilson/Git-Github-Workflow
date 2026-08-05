@@ -102,4 +102,17 @@ git clean -f (git clean require the -f (force) flag by default to prevent the ac
 
 <img width="1500" height="364" alt="image" src="https://github.com/user-attachments/assets/b5a812c7-49dc-4f7a-85f9-6fe3f741e7f0" />
 
+<pre>
+git clean -fdn (safest git clean command to preview the deletion of both untracked files and directories)
+<img width="846" height="112" alt="image" src="https://github.com/user-attachments/assets/659e656c-8a20-4e86-9a27-f86d15954f05" />
+  
+git clean -fd (forcibly remove all untracked files and directories in the current path)
+<img width="804" height="106" alt="image" src="https://github.com/user-attachments/assets/0b75c233-8f63-4141-bfbb-428e1635b0b3" />
+</pre>
+
+
+
+
+
+
 
