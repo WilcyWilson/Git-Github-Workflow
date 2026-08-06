@@ -1,5 +1,21 @@
 # Github Workflow
 
+## The Four Git Zones
+
+- Working Directory
+  <pre>The project folder on your computer where you write and edit files. Changes here are unsaved and untracked by Git until you act.</pre>
+
+- Staging Area (Index)
+  <pre>A temporary holding space. You use git add to place selected file snapshots here before saving.</pre>
+- Local Repository
+  <pre>The .git database stored on your machine. You use git commit to permanently record the staged snapshots into your project history.</pre>
+
+- Remote Repository
+
+  <pre>A shared server like GitHub or GitLab. You use git push to upload your local commits so a team can access them.</pre>
+
+<img width="1000" height="510" alt="image" src="https://github.com/user-attachments/assets/d192c7f2-0b17-4255-b593-00497a5c7250" />
+
 ## Github Sign In Commands
 
 <pre>
@@ -58,7 +74,10 @@ After this new branch will be created in the github website too.
 <pre>
 git reset --hard
 
-This will reset our project to the previous head at the remote repo.
+This will reset our project to the previous head at the remote repo. Discards all local modifications and resets the entire project to the state of the last commit.
+
+<img width="1360" height="864" alt="image" src="https://github.com/user-attachments/assets/90434e3e-6ae3-4ea4-8bd2-db7a128b38f8" />
+
 </pre>
 
 ## Delete a Git Branch
