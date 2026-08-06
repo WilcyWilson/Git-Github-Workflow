@@ -108,6 +108,9 @@ git clean -fdn (safest git clean command to preview the deletion of both untrack
   
 git clean -fd (forcibly remove all untracked files and directories in the current path)
 <img width="804" height="106" alt="image" src="https://github.com/user-attachments/assets/0b75c233-8f63-4141-bfbb-428e1635b0b3" />
+
+git clean -i (git clean flag allows you to choose which files to delete via a yes/no prompt for each item)
+<img width="2216" height="250" alt="image" src="https://github.com/user-attachments/assets/f85a5ec3-2f2e-4ce2-b8a0-53e01e8cf684" />
 </pre>
 
 
