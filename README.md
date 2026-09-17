@@ -132,6 +132,24 @@ git clean -i (git clean flag allows you to choose which files to delete via a ye
 <img width="2216" height="250" alt="image" src="https://github.com/user-attachments/assets/f85a5ec3-2f2e-4ce2-b8a0-53e01e8cf684" />
 </pre>
 
+## Git command to list all configured remote aliases along with their fetch and push URLs
+<pre>
+git remote -v
+<img width="1244" height="132" alt="image" src="https://github.com/user-attachments/assets/f4b1bbdd-c2f8-4e15-a75a-2450cb86e68a" />
+</pre>
+
+## Git command that lists both local and remote-tracking branches
+<pre>
+git branch -a
+<img width="908" height="360" alt="image" src="https://github.com/user-attachments/assets/a5214438-91d6-4928-8b81-4963152af78a" />
+</pre>
+
+## Rename the most recent commit directly from the terminal without opening a text editor
+<pre>
+git commit --amend -m "Your new commit message"
+</pre>
+
+
 
 
 
