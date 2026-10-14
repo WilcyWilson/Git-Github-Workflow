@@ -149,6 +149,11 @@ git branch -a
 git commit --amend -m "Your new commit message"
 </pre>
 
+## Remove the folder in remote that has been already commited and pushed to remote but keep the local files intact
+<pre>
+git rm -r --cached "folder path or folder name"
+</pre>
+
 
 
 
