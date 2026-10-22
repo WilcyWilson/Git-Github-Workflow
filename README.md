@@ -160,6 +160,11 @@ git branch -m master main
 git push -u origin main
 </pre>
 
+## Delete branch from remote
+<pre>
+git push origin --delete master
+</pre>
+
 
 
 
