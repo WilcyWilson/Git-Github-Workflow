@@ -154,6 +154,11 @@ git commit --amend -m "Your new commit message"
 git rm -r --cached "folder path or folder name"
 </pre>
 
+## Rename branch from master to main
+<pre>
+git branch -m master main
+git push -u origin main
+</pre>
 
 
 
