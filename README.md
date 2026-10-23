@@ -165,7 +165,17 @@ git push -u origin main
 git push origin --delete master
 </pre>
 
-
+## Commit type suggestion
+<pre>
+feat:
+fix:
+refactor:
+pref:
+style:
+test:
+docs:
+chore:
+</pre>
 
 
 
