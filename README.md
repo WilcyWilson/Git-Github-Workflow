@@ -167,14 +167,14 @@ git push origin --delete master
 
 ## Commit type suggestion
 <pre>
-feat:
-fix:
-refactor:
-pref:
-style:
-test:
-docs:
-chore:
+feat: A new feature for the user (e.g. feat: add CSV export.)
+fix: A bug fix 
+refactor: improving code without changing what it does
+pref: A code change that specifically improves performance
+style: Formating, missing semi-colons, fixing indentation etc
+test: Adding or fixing tests
+docs: Changes to documentation (eg. to README.md)
+chore: Updating build tasks, .gitignore, or pacakge dependendies
 </pre>
 
 
