@@ -177,6 +177,11 @@ docs: Changes to documentation (eg. to README.md)
 chore: Updating build tasks, .gitignore, or pacakge dependendies
 </pre>
 
+## Install the Github CLI (gh)
+<pre>
+# Windows
+winget install --id Github.cli
+</pre>
 
 
 
