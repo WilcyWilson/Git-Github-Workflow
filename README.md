@@ -183,7 +183,7 @@ chore: Updating build tasks, .gitignore, or pacakge dependendies
 winget install --id Github.cli
 </pre>
 
-## Switch to a new Branch
+## Create new branch
 <pre>
 git switch -c feat/thing-you-are-going-to-do
 </pre>
