@@ -193,5 +193,10 @@ git switch -c feat/thing-you-are-going-to-do
 git rebase -i (Interactive rebase)
 </pre>
 
+## Git command to begin an interactive rebase covering the last 3 commits from HEAD
+<pre>
+git rebase -i HEAD~3
+</pre>
+
 
 
