@@ -188,4 +188,10 @@ winget install --id Github.cli
 git switch -c feat/thing-you-are-going-to-do
 </pre>
 
+## Rename commit that is older than the most recent commit
+<pre>
+git rebase -i (Interactive rebase)
+</pre>
+
+
 
